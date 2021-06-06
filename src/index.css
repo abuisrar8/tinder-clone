@@ -1,5 +1,8 @@
 *{
   margin: 0;
+  --color-light: #aed6dc;
+  --color-mid: #ff9a8d;
+  --color-dark: #4a536b;
 }
 body {
   margin: 0;
